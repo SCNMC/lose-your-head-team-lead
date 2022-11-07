@@ -4,7 +4,8 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Team Lead
 
-ZIe de wiki voor de standups en revieuws
+ZIe de wiki voor de standups en reviews
+https://github.com/SCNMC/lose-your-head-team-lead/wiki
 
 ## Licentie
 
