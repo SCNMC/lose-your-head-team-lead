@@ -4,6 +4,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Team Lead
 
+ZIe de wiki voor de standups en revieuws
 
 ## Licentie
 
